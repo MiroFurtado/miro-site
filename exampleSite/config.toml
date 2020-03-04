@@ -16,13 +16,13 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
+    author = "miro furtado"
     description = "John Doe's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.png"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = ""
 
     dateformat = "January 2, 2006"
 
